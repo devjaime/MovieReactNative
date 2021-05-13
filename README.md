@@ -2,6 +2,13 @@
     <h1>Movie React Native</h1>
 </p>
 
+# Install
+```
+step 1 - yarn install
+step 2 - npx pod-install  
+step 3 - npx react-native run-android 
+step 4 - npx react-native run-ios 
+```
 ## Movie App made in React Native, from Fernando Herrara's course in which I learned concepts such as:
 * Navigation between screens
 * Api Axios
